@@ -11,7 +11,7 @@ I'm a passionate **Java & Kotlin developer** who loves building clean, efficient
 - **Languages**: Kotlin • Java
 - **Android**: Jetpack Compose, Navigation Component
 - **Others**: Git, IntelliJ IDEA
-- 
+  
 ### How to reach me 📬
 - Email: shirazab04@gmail.com
   
