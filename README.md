@@ -17,4 +17,5 @@ I'm a passionate **Java & Kotlin developer** who loves building clean, efficient
   
 Feel free to say hi or collaborate on interesting projects! 😄
 
-<img width="738" height="808" alt="Screenshot 2023-05-09 at 6 15 48 PM" src="https://github.com/user-attachments/assets/6160373e-939d-42d4-a8d6-62c177e6a60e" />
+![ffab82df093580a0ec19f08ea7c27a109bc97111](https://github.com/user-attachments/assets/2baabf15-1647-4d45-9e5c-ae228386f45e)
+
