@@ -16,3 +16,4 @@ I'm a passionate **Java & Kotlin developer** who loves building clean, efficient
 - Email: shirazab04@gmail.com
   
 Feel free to say hi or collaborate on interesting projects! 😄
+<img width="1171" height="567" alt="Skärmbild 2026-01-31 110805" src="https://github.com/user-attachments/assets/5616e118-e986-4043-8964-e683da7e9ac1" />
