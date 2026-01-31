@@ -17,4 +17,4 @@ I'm a passionate **Java & Kotlin developer** who loves building clean, efficient
   
 Feel free to say hi or collaborate on interesting projects! 😄
 
-<img width="960" height="960" alt="Android_Studio_icon_(2023) svg" src="https://github.com/user-attachments/assets/ac3c0af9-9a9b-401e-873e-59b6274cb1f8" />
+![android-developer-245ucgrlmh200bum](https://github.com/user-attachments/assets/88b2d071-0a55-4bb0-95cc-9017f91859a2)
