@@ -17,4 +17,4 @@ I'm a passionate **Java & Kotlin developer** who loves building clean, efficient
   
 Feel free to say hi or collaborate on interesting projects! 😄
 
-![android-developer-245ucgrlmh200bum](https://github.com/user-attachments/assets/cdf32f54-ec21-4982-9b61-7782cb5c3fa2)
+<img width="738" height="808" alt="Screenshot 2023-05-09 at 6 15 48 PM" src="https://github.com/user-attachments/assets/6160373e-939d-42d4-a8d6-62c177e6a60e" />
